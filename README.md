@@ -47,6 +47,11 @@ This project analyzes customer churn using both **Power BI dashboards** and **Ma
 * Long-term contracts reduce churn significantly
 
 ---
+## 📈 ROC Curve
+
+![ROC Curve](roc_curve.png)
+
+
 
 ## 👨‍💻 Author
 
