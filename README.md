@@ -51,6 +51,9 @@ This project analyzes customer churn using both **Power BI dashboards** and **Ma
 
 ![ROC Curve](roc_curve.png)
 
+📊 Dashboard Preview
+
+
 
 
 ## 👨‍💻 Author
